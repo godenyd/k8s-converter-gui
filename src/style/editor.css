@@ -1,0 +1,10 @@
+.editor-area {
+    margin-bottom: .75rem;
+    min-width: 100%;
+    height: 30em;
+}
+
+.example-box {
+    min-width: 100%;
+    height: 20rem;
+}
